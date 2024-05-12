@@ -7,19 +7,6 @@ Um sistema para gestão de atendimento multicanais centralizado.
 
 <br/>
 
-## Screenshots
-
-![Doação](screenshots/Bot.gif)
-<br/>
-
-![Doação](screenshots/dashboard.gif)
-<br/>
-
-![Doação](screenshots/izing.gif)
-___
-
-<br/>
-
 ## Principais funcionalidades
 
 - Multíplos canais de atendimento ✅
